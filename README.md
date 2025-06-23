@@ -29,6 +29,8 @@ This project presents a Smart Surveillance System built using a Raspberry Pi and
 
 - Edge-computing enabled – Runs directly on Raspberry Pi without the need for cloud servers.
 
+- For added security and consistency, the system is configured to run only on the mobile hotspot it was originally registered with.
+
 # Hardware Components
 - Raspberry Pi 4 Model B (or any compatible version)
 
