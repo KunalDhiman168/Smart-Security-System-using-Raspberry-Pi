@@ -1,5 +1,5 @@
 # main.py
-# The code for serving video stream on Kunal.local
+# The code for serving video stream on Rahul.local
 
 import io
 import logging
