@@ -63,9 +63,9 @@ This project presents a Smart Surveillance System built using a Raspberry Pi and
 - Deploy a mobile app for push notifications
 
 #  Contact
-For suggestions, issues, or collaborations:
-828kd000@gmail.com
-8869088152
+For suggestions, issues, or collaborations: <br>
+828kd000@gmail.com <br>
+8869088152 <br>
 
 
 
