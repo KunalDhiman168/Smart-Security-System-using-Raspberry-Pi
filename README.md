@@ -67,7 +67,7 @@ This project presents a Smart Surveillance System built using a Raspberry Pi and
 #  Contact
 For suggestions, issues, or collaborations: <br>
 828kd000@gmail.com <br>
-8869088152 <br>
+
 
 
 
